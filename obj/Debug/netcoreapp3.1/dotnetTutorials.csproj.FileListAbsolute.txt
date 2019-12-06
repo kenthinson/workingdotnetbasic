@@ -1,0 +1,11 @@
+/Users/kent/Developer/dotnetTutorials/bin/Debug/netcoreapp3.1/dotnetTutorials
+/Users/kent/Developer/dotnetTutorials/bin/Debug/netcoreapp3.1/dotnetTutorials.deps.json
+/Users/kent/Developer/dotnetTutorials/bin/Debug/netcoreapp3.1/dotnetTutorials.runtimeconfig.json
+/Users/kent/Developer/dotnetTutorials/bin/Debug/netcoreapp3.1/dotnetTutorials.runtimeconfig.dev.json
+/Users/kent/Developer/dotnetTutorials/bin/Debug/netcoreapp3.1/dotnetTutorials.dll
+/Users/kent/Developer/dotnetTutorials/bin/Debug/netcoreapp3.1/dotnetTutorials.pdb
+/Users/kent/Developer/dotnetTutorials/obj/Debug/netcoreapp3.1/dotnetTutorials.csprojAssemblyReference.cache
+/Users/kent/Developer/dotnetTutorials/obj/Debug/netcoreapp3.1/dotnetTutorials.AssemblyInfoInputs.cache
+/Users/kent/Developer/dotnetTutorials/obj/Debug/netcoreapp3.1/dotnetTutorials.AssemblyInfo.cs
+/Users/kent/Developer/dotnetTutorials/obj/Debug/netcoreapp3.1/dotnetTutorials.dll
+/Users/kent/Developer/dotnetTutorials/obj/Debug/netcoreapp3.1/dotnetTutorials.pdb
